@@ -1,2 +1,2 @@
 # hello-world
-a short description.
+Just muh hellu world
